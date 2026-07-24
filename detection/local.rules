@@ -1,0 +1,1 @@
+alert tcp any any -> any 22 (msg:"SSH login attempts, possible brute force"; sid:1000001; rev:1;)
