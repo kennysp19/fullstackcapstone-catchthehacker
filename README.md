@@ -30,6 +30,7 @@ I received the attacker's packet capture and worked backward through it to find,
 
 ```
 reports/
+├── 00-project-summary.pdf        Full team overview: all 4 roles + outcome
 ├── 01-red-team-attack.pdf        Nmap + Hydra SSH brute force walkthrough
 ├── 02-red-team-phishing.pdf      Recon + 3 annotated phishing samples
 ├── 03-blue-team-detection.pdf    My detection analysis (Wireshark, Snort, tcpdump)
